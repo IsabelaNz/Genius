@@ -5,7 +5,7 @@
 #define NOTE_A2  110
 #define NOTE_A4 440
 
-// criando o array para os 4 sons para sortear um som
+// criando o array para os sons para sortear um som
 int tons[4] = { NOTE_A2, NOTE_A1, NOTE_G2, NOTE_D3 };
 
 // Nossa sequência de até 100 itens vai começar vazia.
