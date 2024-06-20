@@ -3,7 +3,7 @@
 
 
 ## Link do Tinkercad
-<a href="https://www.tinkercad.com/things/your-tinkercad-link">https://www.tinkercad.com/things/your-tinkercad-link</a>
+<a href="https://www.tinkercad.com/things/1wTaYFBik08-genius-?sharecode=Ef_Kdnphrp7JTSHgQXPeiYnRWkUNbC-PKCA9HAK4qzI"></a>
 
 # Genius
 
