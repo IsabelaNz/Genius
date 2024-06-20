@@ -3,7 +3,7 @@
 
 
 ## 💻 Link do projeto no tinkercad
-[Link para o projeto no Tinkercad](https://www.tinkercad.com/things/1wTaYFBik08-genius-?sharecode=Ef_Kdnphrp7JTSHgQXPeiYnRWkUNbC-PKCA9HAK4qzI)
+[Link Tinkercad](https://www.tinkercad.com/things/1wTaYFBik08-genius-?sharecode=Ef_Kdnphrp7JTSHgQXPeiYnRWkUNbC-PKCA9HAK4qzI)
 
 # Genius
 
