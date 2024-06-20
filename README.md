@@ -2,18 +2,12 @@
 ![image](https://github.com/IsabelaNz/Genius/assets/144686519/57dda81d-0dd2-4254-90f4-dc669cde2628)
 
 
-## Link do Tinkercad
+## 💻 Link do projeto no tinkercad 
 <a href="https://www.tinkercad.com/things/1wTaYFBik08-genius-?sharecode=Ef_Kdnphrp7JTSHgQXPeiYnRWkUNbC-PKCA9HAK4qzI"></a>
 
 # Genius
 
 ## Este é um projeto que recria o clássico jogo de memória "Genius" utilizando um Arduino Uno. O jogo desafia os jogadores a repetir sequências de luzes e sons geradas aleatoriamente, aumentando a dificuldade a cada rodada.
-
-
-## 💻 Link do projeto no tinkercad 
-
-https://www.tinkercad.com/things/1wTaYFBik08-genius-?sharecode=Ef_Kdnphrp7JTSHgQXPeiYnRWkUNbC-PKCA9HAK4qzI
-
 
 
 ## 🛠 Equipamentos e aplicativos utilizados 
