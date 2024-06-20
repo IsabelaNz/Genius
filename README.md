@@ -2,8 +2,8 @@
 ![image](https://github.com/IsabelaNz/Genius/assets/144686519/57dda81d-0dd2-4254-90f4-dc669cde2628)
 
 
-## 💻 Link do projeto no tinkercad 
-<a href="https://www.tinkercad.com/things/1wTaYFBik08-genius-?sharecode=Ef_Kdnphrp7JTSHgQXPeiYnRWkUNbC-PKCA9HAK4qzI"></a>
+## 💻 Link do projeto no tinkercad
+[Link para o projeto no Tinkercad](https://www.tinkercad.com/things/1wTaYFBik08-genius-?sharecode=Ef_Kdnphrp7JTSHgQXPeiYnRWkUNbC-PKCA9HAK4qzI)
 
 # Genius
 
